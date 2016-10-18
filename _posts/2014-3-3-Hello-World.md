@@ -7,6 +7,8 @@ This my first post in this blog.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
+![](https://avatars.githubusercontent.com/acardocacho)
+
 It's not supposed to be too interesting, just check that it is working.
 
 I will also include a link to my [Github Repos](https://github.com/acardocacho).
