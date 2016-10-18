@@ -9,4 +9,4 @@ my previous knowledge to this new and interesting field.
 
 ### Contact me
 
-[email@domain.com](mailto:ana@cachopo.org)
+[ana@cachopo.org](mailto:ana@cachopo.org)
