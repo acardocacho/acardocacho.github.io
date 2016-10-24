@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-10-22-project.md
+title: 2016-10-22-statsmodels.md
 ---
 
 # Linear Regression with Statsmodels and Scikit-Learn
