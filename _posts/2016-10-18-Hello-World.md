@@ -18,7 +18,7 @@ And finally a list:
 
 1. Fist item
 1. Second item
-   1. First subitem for second item
-   1. Second subitem for second item
+    1. First subitem for second item
+    1. Second subitem for second item
 1. Third item
   
