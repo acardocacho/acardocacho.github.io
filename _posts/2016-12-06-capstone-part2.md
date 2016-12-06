@@ -59,7 +59,7 @@ Each document is represented by a "word" representing the document's class, a TA
 <p>This dataset is a
 collection of approximately 20,000 newsgroup documents, partitioned
 (nearly) evenly across 20 different newsgroups.  I used the "bydate" version,
-because it already had a standard train/test split.  
+because it already had a standard train/test split.
 </p>
 <p>Although already cleaned-up, this dataset still had several
 attachments, many PGP keys and some duplicates.
@@ -67,6 +67,7 @@ attachments, many PGP keys and some duplicates.
 <p>After removing them and the messages that became empty because of
 it, the distribution of train and test messages was the following for
 each newsgroup:
+</p>
 
 <table align="center" border="1">
 <tbody>
@@ -213,7 +214,7 @@ each newsgroup:
 <p>I downloaded the Reuters-21578 dataset from <a href="http://www.daviddlewis.com/resources/testcollections/reuters21578/">David
 Lewis' page</a> and used the standard "modApte" train/test split.  These documents
 appeared on the Reuters newswire in 1987 and were manually classified
-by personnel from Reuters Ltd.  
+by personnel from Reuters Ltd.
 
 </p>
 <p>Due to the fact that the class distribution for these documents is
@@ -377,7 +378,7 @@ the classes in R10 and R90 were left with no train or test documents.
 </p>
 <p>Considering only the documents with a single topic and the classes
 which still have at least one train and one test example, we have 8 of the
-10 most frequent classes and 52 of the original 90.  
+10 most frequent classes and 52 of the original 90.
 
 </p>
 <p>Following Sebastiani's convention, we will call these sets
