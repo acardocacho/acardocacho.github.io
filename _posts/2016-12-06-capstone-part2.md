@@ -15,9 +15,9 @@ I consider this work will be successful if I am able to reproduce the initial "r
 
 ## Outline of proposed methods and models
 
-I will use some of the classification methods available in sklearn for this task, including but not limited to: k-NearestNeighbors, NaiveBayes, and SupportVectorMachines.  
+I will use some of the classification methods available in sklearn for this task, including but not limited to: k-NearestNeighbors, NaiveBayes, and SupportVectorMachines.
 
-I will use accuracy to evaluate how well they perform.  
+I will use accuracy to evaluate how well they perform.
 
 I will use public datasets that are actively used in scientific papers, so that these results are comparable to previously published work.
 
@@ -211,7 +211,7 @@ each newsgroup:
 #### Reuters 21578
 
 <p>I downloaded the Reuters-21578 dataset from <a href="http://www.daviddlewis.com/resources/testcollections/reuters21578/">David
-Lewis' page</a> and used the standard "modApté" train/test split.  These documents
+Lewis' page</a> and used the standard "modApte" train/test split.  These documents
 appeared on the Reuters newswire in 1987 and were manually classified
 by personnel from Reuters Ltd.  
 
@@ -232,7 +232,7 @@ training and testing example.
 at all or with more than one topic.  In fact, you can see the
 distribution of the documents per number of topics in the following
 table, where <i># train docs</i> and <i># test docs</i> refer to
-the <i>Mod Apté</i> split and <i># other</i> refers to documents
+the <i>Mod Apte</i> split and <i># other</i> refers to documents
 that were not considered in this split:
 
 </p>
@@ -242,7 +242,7 @@ that were not considered in this split:
 <th colspan="5">Reuters 21578</th>
 </tr>
 <tr>
-<th># Topics</th>
+<th># Topics</th>
 <th># train docs</th>
 <th># test docs</th>
 <th># other</th>
@@ -790,6 +790,8 @@ many of its documents.
 </tbody>
 </table>
 
+  
+
 ## How to tune and evaluate results
 
 I will evaluate my results using accuracy, the standard evaluation measure for single-label text categorisation tasks.  I am already going to use three versions of two different datasets commonly used for research, and I can compare my results with others that have been previously published.
@@ -800,4 +802,7 @@ If I find other public datasets that are commonly used in research papers, I wil
 Full details in this notebook in my Github repo:
 
 [Repo](https://github.com/acardocacho/DSI_LDN_1_HOMEWORK/blob/cap-p2/ana/capstone/Ana-Capstone-Part2.ipynb)
+
+
+
 
