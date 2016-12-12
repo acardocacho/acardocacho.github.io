@@ -50,69 +50,7 @@ Most of the words in r52 and r8 are common to both word clouds, given that r8 is
 The initial results obtained for each dataset and model can be seen in
 the following table.
 
-<table align="center" border="1">
-  <tbody>
-    <tr>
-      <th></th>
-      <th colspan="3" halign="left">accuracy</th>
-    </tr>
-    <tr>
-      <th>dataset</th>
-      <th>ng20</th>
-      <th>r52</th>
-      <th>r8</th>
-    </tr>
-    <tr>
-      <th>model</th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th>DT</th>
-      <td>0.504649</td>
-      <td>0.838785</td>
-      <td>0.910918</td>
-    </tr>
-    <tr>
-      <th>ET</th>
-      <td>0.602152</td>
-      <td>0.869938</td>
-      <td>0.943353</td>
-    </tr>
-    <tr>
-      <th>KNN</th>
-      <td>0.279888</td>
-      <td>0.901869</td>
-      <td>0.952947</td>
-    </tr>
-    <tr>
-      <th>LR</th>
-      <td>0.700584</td>
-      <td>0.894470</td>
-      <td>0.964367</td>
-    </tr>
-    <tr>
-      <th>RF</th>
-      <td>0.601089</td>
-      <td>0.860592</td>
-      <td>0.938785</td>
-    </tr>
-    <tr>
-      <th>SVM</th>
-      <td>0.053002</td>
-      <td>0.421729</td>
-      <td>0.494746</td>
-    </tr>
-    <tr>
-      <th>dummy</th>
-      <td>0.053002</td>
-      <td>0.421729</td>
-      <td>0.494746</td>
-    </tr>
-  </tbody>
-</table>
-
+![png](../images/2016-12-12-results.png)
 
 
 ## Present: Summarise approach and initial results; describe successes, setbacks, and lessons learned
