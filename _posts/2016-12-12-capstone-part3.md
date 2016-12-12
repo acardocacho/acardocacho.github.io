@@ -51,7 +51,7 @@ The initial results obtained for each dataset and model can be seen in
 the following table.
 
 <table align="center" border="1">
-  <thead>
+  <tbody>
     <tr>
       <th></th>
       <th colspan="3" halign="left">accuracy</th>
@@ -68,8 +68,6 @@ the following table.
       <th></th>
       <th></th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <th>DT</th>
       <td>0.504649</td>
