@@ -802,8 +802,7 @@ If I find other public datasets that are commonly used in research papers, I wil
 
 Full details in this notebook in my Github repo:
 
-[Repo](https://github.com/acardocacho/DSI_LDN_1_HOMEWORK/blob/cap-p2/ana/capstone/Ana-Capstone-Part2.ipynb)
-
+[Repo](https://github.com/acardocacho/DSI_LDN_1_HOMEWORK/blob/master/ana/capstone/Ana-Capstone-Part2.ipynb)
 
 
 

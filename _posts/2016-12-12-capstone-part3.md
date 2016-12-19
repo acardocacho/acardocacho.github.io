@@ -67,4 +67,4 @@ From this initial running of the models I learned that they will take some time 
 
 Full details in this notebook in my Github repo:
 
-[Repo](https://github.com/acardocacho/DSI_LDN_1_HOMEWORK/blob/cap-p3/ana/capstone/Ana-Capstone-Part3.ipynb)
+[Repo](https://github.com/acardocacho/DSI_LDN_1_HOMEWORK/blob/master/ana/capstone/Ana-Capstone-Part3.ipynb)
