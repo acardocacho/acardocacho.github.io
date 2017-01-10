@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-01-10-capstone-part3.md
+title: 2017-01-10-capstone-part4.md
 ---
 
 # Comparing ML models for single-label text classification
