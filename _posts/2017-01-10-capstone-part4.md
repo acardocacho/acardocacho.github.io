@@ -76,18 +76,18 @@ From the last two plots together, we can see that:
 
 Here I will compare two word clouds for each dataset, one before and one after removing stopwords.  The word clouds contain the most common words in the dataset (once more, considering only the training set).  It should be interesting to see if the most common words change significantly  by removing english stopwords.  Stopwords are very common words in a language, that appear frequently in texts, but that do not have a high discriminative power.  Examples of stopwords in english are "the", "to", and "and".
 
-<tr>
-<td> ![png](../images/2017-01-10-fig-ng20-incl-stop.png) </td>
-<td> ![png](../images/2017-01-10-fig-ng20-excl-stop.png) </td>
-</tr>
-<tr>
-<td> ![png](../images/2017-01-10-fig-r52-incl-stop.png) </td>
-<td> ![png](../images/2017-01-10-fig-r52-excl-stop.png) </td>
-</tr>
-<tr>
-<td> ![png](../images/2017-01-10-fig-r8-incl-stop.png) </td>
-<td> ![png](../images/2017-01-10-fig-r8-excl-stop.png) </td>
-</tr>
+
+![png](../images/2017-01-10-fig-ng20-incl-stop.png)
+![png](../images/2017-01-10-fig-ng20-excl-stop.png)
+
+
+![png](../images/2017-01-10-fig-r52-incl-stop.png)
+![png](../images/2017-01-10-fig-r52-excl-stop.png)
+
+
+![png](../images/2017-01-10-fig-r8-incl-stop.png)
+![png](../images/2017-01-10-fig-r8-excl-stop.png)
+
 
 These word clouds look nice, but that's not the only reason why they are here.  By looking at them we can take some valuable insights:
 
@@ -122,11 +122,10 @@ The first goal is to be able to reproduce previously published results for these
 
 Here are both the webpage results and the present work results syde by side.
 
-<tr>
-<td> ![png](../images/2017-01-10-fig-results-initial-webpage.png) </td>
-<td>  </td>
-<td> ![png](../images/2017-01-10-fig-results-initial-present.png) </td>
-</tr>
+
+![png](../images/2017-01-10-fig-results-initial-webpage.png)
+![png](../images/2017-01-10-fig-results-initial-present.png)
+
 
 Actually, it's simpler to visualise if I plot the differences in accuracy between the present results and the results in the webpage for each dataset and ML model.
 
