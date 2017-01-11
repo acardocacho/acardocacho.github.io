@@ -76,18 +76,7 @@ From the last two plots together, we can see that:
 
 Here I will compare two word clouds for each dataset, one before and one after removing stopwords.  The word clouds contain the most common words in the dataset (once more, considering only the training set).  It should be interesting to see if the most common words change significantly  by removing english stopwords.  Stopwords are very common words in a language, that appear frequently in texts, but that do not have a high discriminative power.  Examples of stopwords in english are "the", "to", and "and".
 
-
-![png](../images/2017-01-10-fig-ng20-incl-stop.png)
-![png](../images/2017-01-10-fig-ng20-excl-stop.png)
-
-
-![png](../images/2017-01-10-fig-r52-incl-stop.png)
-![png](../images/2017-01-10-fig-r52-excl-stop.png)
-
-
-![png](../images/2017-01-10-fig-r8-incl-stop.png)
-![png](../images/2017-01-10-fig-r8-excl-stop.png)
-
+![png](../images/2017-01-10-fig-all-clouds.png)
 
 These word clouds look nice, but that's not the only reason why they are here.  By looking at them we can take some valuable insights:
 
@@ -237,7 +226,7 @@ I think that I was able to achieve this goal, go a bit further, and there still 
 I started by loading the csv files for the three datasets, and it all went as expected.
 The results of my initial analisys agree with what was previously published regarding the number of documents per class, both for training and test sets.  I also created word clouds with the 50 most common words for each dataset, and discussed some interesting aspects.
 
-The fist thing I tried was to find in sklearn models that were "equivalent" to the ones that I used in my PhD work.  The algorithm that I used for tfidf is slightly different from the one implemented in sklearn (even after changing some parameters), so the results obtained now are different from previous results (but not too far off).  SVM using a linear kernel still was the best performing model for all datasets.
+The first thing I tried was to find in sklearn models that were "equivalent" to the ones that I used in my PhD work.  The algorithm that I used for tfidf is slightly different from the one implemented in sklearn (even after changing some parameters), so the results obtained now are different from previous results (but not too far off).  SVM using a linear kernel still was the best performing model for all datasets.
 
 Then I tried to reproduce what in my PhD work I called "combining LSI with other models".  In sklearn, LSI is considered a feature selection algorithm and is called Singular Value Decomposition.  The main idea is the same (despite the different names).  Like before, combining LSI with SVM worsens results.  I had not combined LSI with centroids in my PhD work; here it worsens results.  In my PhD work, LSI improved results when combined with kNN (when k=1 it's also called vector model), but here this only happens for the `r*` datasets but not for the `ng20` dataset; I imagine it's the different way to calculate tfifd that makes a difference.  In all cases, accuracy is still below the one achieved using SVM with a linear kernel (and standard tfidf feature selection).
 
