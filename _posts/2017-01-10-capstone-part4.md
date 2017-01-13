@@ -202,9 +202,7 @@ How do these models compare in terms of how long they take to train and test?
 
 Can we have all these in one plot, and look at all these results at the same time?
 
-![png](../images/2017-01-10-output_105_1.png)
-![png](../images/2017-01-10-output_105_2.png)
-![png](../images/2017-01-10-output_105_3.png)
+![png](../images/2017-01-10-fig-final-timed.png)
 
 
 Before starting to comment on these results, it's worth remembering that the Dumb Classifier had accuracy values of 0.49 for `r8`, 0.42 for `r52`, and 0.05 for `ng20`.  Looking at the plots in the top row, it's easy to see that these models have much better results.
