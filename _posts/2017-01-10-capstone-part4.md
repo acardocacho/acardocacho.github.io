@@ -1,9 +1,7 @@
 ---
 layout: post
-title: 2017-01-10-capstone-part4.md
+title: Comparing ML models for single-label text classification
 ---
-
-# Comparing ML models for single-label text classification
 
 ## Problem statement, goals and success criteria
 
