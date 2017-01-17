@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Doing a Data Science Immersive course in London, learning how to apply
-my previous knowledge to this new and interesting field.
+This blog contains work that I did during my Data Science Immersive
+course at General Assembly London.
+
 
 ### Contact me
 
-[ana@cachopo.org](mailto:ana@cachopo.org)
+[my webpage](http://ana.cachopo.org)
+[send me an email](mailto:ana@cachopo.org)
