@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Hello-World.md
+title: Hello World
 ---
+
+# First ever blog post
 
 This my first post in this blog.
 
