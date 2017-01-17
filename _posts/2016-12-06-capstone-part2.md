@@ -1,9 +1,7 @@
 ---
 layout: post
-title: 2016-12-06-capstone-part2.md
+title: Comparing ML models for single-label text classification (Part2)
 ---
-
-# Capstone Project Part2
 
 ## Problem Statement, goals and success criteria
 

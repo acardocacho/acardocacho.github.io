@@ -1,10 +1,7 @@
 ---
 layout: post
-title: 2016-12-12-capstone-part3.md
+title: title: Comparing ML models for single-label text classification (Part3)
 ---
-
-# Capstone Project Part3
-
 
 ## Mine: Correlate data and run statistical analysis
 

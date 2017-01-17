@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing ML models for single-label text classification
+title: Comparing ML models for single-label text classification (Part4)
 ---
 
 ## Problem statement, goals and success criteria

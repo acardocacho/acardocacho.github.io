@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2016-10-18-Hello-World.md
+title: Hello-World.md
 ---
 
 This my first post in this blog.
