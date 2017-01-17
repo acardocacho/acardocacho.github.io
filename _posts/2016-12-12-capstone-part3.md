@@ -1,6 +1,6 @@
 ---
 layout: post
-title: title: Comparing ML models for single-label text classification (Part3)
+title: Comparing ML models for single-label text classification (Part3)
 ---
 
 ## Mine: Correlate data and run statistical analysis
