@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This blog contains work that I did during my Data Science Immersive
+This blog contains work related to Data Science.  It all started with my Data Science Immersive
 course at General Assembly London.
 
 
 ### Contact me
 
-[my webpage](http://ana.cachopo.org)
-[send me an email](mailto:ana@cachopo.org)
+[Check out my webpage](http://ana.cachopo.org)
+
+[Send me an email](mailto:ana@cachopo.org)
